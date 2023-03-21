@@ -5,7 +5,7 @@ public class vikasSecondProgram {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("my second program");
+		System.out.println("my second progra");
 	}
 
 }
